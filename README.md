@@ -25,3 +25,7 @@ A 3D basketball shooting game built in Unity. The goal: your shot only goes in i
 ## Status
 
 Project scaffold — Unity project setup in progress.
+
+## About
+
+Built by a 13-year-old learning game dev. The GitHub account (`222315AIS`) belongs to a parent — used with permission since GitHub requires users to be 13+ in some regions and a parent account avoids any account-age issues.
